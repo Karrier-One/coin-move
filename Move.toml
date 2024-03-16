@@ -1,6 +1,6 @@
 [package]
 name = "karrier"
-
+published-at = "0xe245a51bb36b4427fcc5153357a602d534354e33a24ef173e6e0dbc0542959e9"
 # edition = "2024.alpha" # To use the Move 2024 edition, currently in alpha
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
